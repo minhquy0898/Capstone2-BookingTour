@@ -4,4 +4,5 @@ export const pathUser = {
   TOURLIST: "tourlist",
   TOURDETAIL: "detail",
   INFORMATION: "info",
+  PAYMENT: "payment",
 };
